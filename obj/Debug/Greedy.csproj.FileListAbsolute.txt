@@ -1,0 +1,12 @@
+F:\VSProjects\Greedy\bin\Debug\Greedy.exe.config
+F:\VSProjects\Greedy\bin\Debug\Greedy.exe
+F:\VSProjects\Greedy\bin\Debug\Greedy.pdb
+F:\VSProjects\Greedy\bin\Debug\nunit.framework.dll
+F:\VSProjects\Greedy\obj\Debug\Greedy.csproj.AssemblyReference.cache
+F:\VSProjects\Greedy\obj\Debug\Greedy.Architecture.Drawing.GreedyWindow.resources
+F:\VSProjects\Greedy\obj\Debug\Greedy.Properties.Resources.resources
+F:\VSProjects\Greedy\obj\Debug\Greedy.csproj.GenerateResource.cache
+F:\VSProjects\Greedy\obj\Debug\Greedy.csproj.CoreCompileInputs.cache
+F:\VSProjects\Greedy\obj\Debug\Greedy.csproj.CopyComplete
+F:\VSProjects\Greedy\obj\Debug\Greedy.exe
+F:\VSProjects\Greedy\obj\Debug\Greedy.pdb
